@@ -1,7 +1,7 @@
 # simulado-nuvem# Simulado Prático Integrado — Computação em Nuvem
 
-**Aluno:** SEU NOME COMPLETO  
-**Turma:** SUA TURMA  
+**Aluno:** Rafael Felipe Zambeli 
+**Turma:** 5º Semestre  
 **Professora:** Simone Tatiane do Canto  
 **Data:** 11/11/2026
 
